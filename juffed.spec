@@ -12,7 +12,7 @@ Version: 	0.10
 Release: 	10
 License:	GPLv2
 Source0:	http://sourceforge.net/projects/juffed/files/Releases/%{version}/%{name}-%{version}-%{minor_version}.tar.bz2
-Url:		http://juffed.com
+Url:		https://juffed.com
 Group:		Editors
 Summary:	Simple tabbed text editor
 BuildRequires:	cmake
